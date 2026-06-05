@@ -1,4 +1,4 @@
-import { useState } from 'react';
+"use client";import { useState } from 'react';
 import Head from 'next/head';
 
 const Logo = () => (
